@@ -1,0 +1,34 @@
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\bin\Debug\net8.0\rixbst.Infrastructure.deps.json
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\bin\Debug\net8.0\rixbst.Infrastructure.dll
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\bin\Debug\net8.0\rixbst.Infrastructure.pdb
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\bin\Debug\net8.0\rixbst.Application.dll
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\bin\Debug\net8.0\rixbst.Domain.dll
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\bin\Debug\net8.0\rixbst.Application.pdb
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\bin\Debug\net8.0\rixbst.Domain.pdb
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.AssemblyInfo.cs
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.csproj.CopyComplete
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.dll
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\refint\rixbst.Infrastructure.dll
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.pdb
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\ref\rixbst.Infrastructure.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\bin\Debug\net8.0\rixbst.Infrastructure.deps.json
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\bin\Debug\net8.0\rixbst.Infrastructure.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\bin\Debug\net8.0\rixbst.Infrastructure.pdb
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\bin\Debug\net8.0\rixbst.Application.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\bin\Debug\net8.0\rixbst.Domain.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\bin\Debug\net8.0\rixbst.Application.pdb
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\bin\Debug\net8.0\rixbst.Domain.pdb
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.AssemblyInfo.cs
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.csproj.CopyComplete
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\refint\rixbst.Infrastructure.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.pdb
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\ref\rixbst.Infrastructure.dll

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <UserSecretsId>d2cb1593-058a-4209-8429-6b1d8cda7b77</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\rixbst.Contracts\rixbst.Contracts.csproj" />
+    <ProjectReference Include="..\..\rixbst.Application\rixbst.Application.csproj" />
+    <ProjectReference Include="..\..\rixbst.Infrastructure\rixbst.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

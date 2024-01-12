@@ -1,0 +1,22 @@
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Web\rixbst.Contracts\bin\Debug\net8.0\rixbst.Contracts.deps.json
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Web\rixbst.Contracts\bin\Debug\net8.0\rixbst.Contracts.dll
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Web\rixbst.Contracts\bin\Debug\net8.0\rixbst.Contracts.pdb
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\rixbst.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\rixbst.Contracts.AssemblyInfoInputs.cache
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\rixbst.Contracts.AssemblyInfo.cs
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\rixbst.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\rixbst.Contracts.dll
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\refint\rixbst.Contracts.dll
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\rixbst.Contracts.pdb
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\ref\rixbst.Contracts.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Contracts\bin\Debug\net8.0\rixbst.Contracts.deps.json
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Contracts\bin\Debug\net8.0\rixbst.Contracts.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Contracts\bin\Debug\net8.0\rixbst.Contracts.pdb
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\rixbst.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\rixbst.Contracts.AssemblyInfoInputs.cache
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\rixbst.Contracts.AssemblyInfo.cs
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\rixbst.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\rixbst.Contracts.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\refint\rixbst.Contracts.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\rixbst.Contracts.pdb
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\ref\rixbst.Contracts.dll

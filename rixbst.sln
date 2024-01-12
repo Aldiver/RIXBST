@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7144FA8E-FF55-44FD-A619-3DD35234113C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rixbst.Application", "src\rixbst.Application\rixbst.Application.csproj", "{CF079491-CFA5-456E-A4CF-B07204C39DDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rixbst.Domain", "src\rixbst.Domain\rixbst.Domain.csproj", "{756F1A65-B8D6-4A11-8697-C6B4CC5A82AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rixbst.Infrastructure", "src\rixbst.Infrastructure\rixbst.Infrastructure.csproj", "{6D90078B-18E9-4F42-ABCE-6F28ABFC0C6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "rixbst.Web", "rixbst.Web", "{D6E975E8-2193-4EC1-B35E-3C165E1E9F41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rixbst.Api", "src\rixbst.Web\rixbst.Api\rixbst.Api.csproj", "{62617DB5-5243-4CCA-8C92-A21E1BFFC4E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rixbst.Contracts", "src\rixbst.Web\rixbst.Contracts\rixbst.Contracts.csproj", "{93D1304C-D6B0-4CE3-B08E-F338BE570579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF079491-CFA5-456E-A4CF-B07204C39DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF079491-CFA5-456E-A4CF-B07204C39DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF079491-CFA5-456E-A4CF-B07204C39DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF079491-CFA5-456E-A4CF-B07204C39DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756F1A65-B8D6-4A11-8697-C6B4CC5A82AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756F1A65-B8D6-4A11-8697-C6B4CC5A82AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756F1A65-B8D6-4A11-8697-C6B4CC5A82AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756F1A65-B8D6-4A11-8697-C6B4CC5A82AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D90078B-18E9-4F42-ABCE-6F28ABFC0C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D90078B-18E9-4F42-ABCE-6F28ABFC0C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D90078B-18E9-4F42-ABCE-6F28ABFC0C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D90078B-18E9-4F42-ABCE-6F28ABFC0C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62617DB5-5243-4CCA-8C92-A21E1BFFC4E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62617DB5-5243-4CCA-8C92-A21E1BFFC4E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62617DB5-5243-4CCA-8C92-A21E1BFFC4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62617DB5-5243-4CCA-8C92-A21E1BFFC4E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D1304C-D6B0-4CE3-B08E-F338BE570579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D1304C-D6B0-4CE3-B08E-F338BE570579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D1304C-D6B0-4CE3-B08E-F338BE570579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D1304C-D6B0-4CE3-B08E-F338BE570579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CF079491-CFA5-456E-A4CF-B07204C39DDC} = {7144FA8E-FF55-44FD-A619-3DD35234113C}
+		{756F1A65-B8D6-4A11-8697-C6B4CC5A82AA} = {7144FA8E-FF55-44FD-A619-3DD35234113C}
+		{6D90078B-18E9-4F42-ABCE-6F28ABFC0C6C} = {7144FA8E-FF55-44FD-A619-3DD35234113C}
+		{D6E975E8-2193-4EC1-B35E-3C165E1E9F41} = {7144FA8E-FF55-44FD-A619-3DD35234113C}
+		{62617DB5-5243-4CCA-8C92-A21E1BFFC4E5} = {D6E975E8-2193-4EC1-B35E-3C165E1E9F41}
+		{93D1304C-D6B0-4CE3-B08E-F338BE570579} = {D6E975E8-2193-4EC1-B35E-3C165E1E9F41}
+	EndGlobalSection
+EndGlobal

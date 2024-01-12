@@ -1,0 +1,23 @@
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Domain\bin\Debug\net8.0\rixbst.Domain.deps.json
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Domain\bin\Debug\net8.0\rixbst.Domain.dll
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Domain\bin\Debug\net8.0\rixbst.Domain.pdb
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Domain\obj\Debug\net8.0\rixbst.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Domain\obj\Debug\net8.0\rixbst.Domain.AssemblyInfoInputs.cache
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Domain\obj\Debug\net8.0\rixbst.Domain.AssemblyInfo.cs
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Domain\obj\Debug\net8.0\rixbst.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Domain\obj\Debug\net8.0\rixbst.Domain.dll
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Domain\obj\Debug\net8.0\refint\rixbst.Domain.dll
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Domain\obj\Debug\net8.0\rixbst.Domain.pdb
+C:\Users\Aldiver Alcoriza\Desktop\rixbst\src\rixbst.Domain\obj\Debug\net8.0\ref\rixbst.Domain.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Domain\bin\Debug\net8.0\rixbst.Domain.deps.json
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Domain\bin\Debug\net8.0\rixbst.Domain.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Domain\bin\Debug\net8.0\rixbst.Domain.pdb
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Domain\obj\Debug\net8.0\rixbst.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Domain\obj\Debug\net8.0\rixbst.Domain.AssemblyInfoInputs.cache
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Domain\obj\Debug\net8.0\rixbst.Domain.AssemblyInfo.cs
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Domain\obj\Debug\net8.0\rixbst.Domain.csproj.CoreCompileInputs.cache
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Domain\obj\Debug\net8.0\rixbst.Domain.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Domain\obj\Debug\net8.0\refint\rixbst.Domain.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Domain\obj\Debug\net8.0\rixbst.Domain.pdb
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Domain\obj\Debug\net8.0\ref\rixbst.Domain.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Domain\obj\Debug\net8.0\rixbst.Domain.csproj.AssemblyReference.cache
