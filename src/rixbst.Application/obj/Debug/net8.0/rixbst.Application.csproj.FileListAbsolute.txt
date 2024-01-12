@@ -28,3 +28,19 @@ C:\Users\8bit\RIXBST\rixbst\src\rixbst.Application\obj\Debug\net8.0\rixbst.Appli
 C:\Users\8bit\RIXBST\rixbst\src\rixbst.Application\obj\Debug\net8.0\refint\rixbst.Application.dll
 C:\Users\8bit\RIXBST\rixbst\src\rixbst.Application\obj\Debug\net8.0\rixbst.Application.pdb
 C:\Users\8bit\RIXBST\rixbst\src\rixbst.Application\obj\Debug\net8.0\ref\rixbst.Application.dll
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\bin\Debug\net8.0\rixbst.Application.deps.json
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\bin\Debug\net8.0\rixbst.Application.dll
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\bin\Debug\net8.0\rixbst.Application.pdb
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\bin\Debug\net8.0\rixbst.Domain.dll
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\bin\Debug\net8.0\rixbst.Domain.pdb
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\obj\Debug\net8.0\rixbst.Application.csproj.AssemblyReference.cache
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\obj\Debug\net8.0\rixbst.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\obj\Debug\net8.0\rixbst.Application.AssemblyInfoInputs.cache
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\obj\Debug\net8.0\rixbst.Application.AssemblyInfo.cs
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\obj\Debug\net8.0\rixbst.Application.csproj.CoreCompileInputs.cache
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\obj\Debug\net8.0\rixbst.Application.sourcelink.json
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\obj\Debug\net8.0\rixbst.Application.csproj.CopyComplete
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\obj\Debug\net8.0\rixbst.Application.dll
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\obj\Debug\net8.0\refint\rixbst.Application.dll
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\obj\Debug\net8.0\rixbst.Application.pdb
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\obj\Debug\net8.0\ref\rixbst.Application.dll

@@ -5,5 +5,5 @@ Content-Type: application/json
 
 {
     "email": "aldiver@email.com",
-    "password": "strongpassword2"
+    "password": "strongpassword"
 }
