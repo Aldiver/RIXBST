@@ -7,10 +7,12 @@ using rixbst.Application.Authentication.Commands.Register;
 using rixbst.Application.Authentication.Common;
 using rixbst.Application.Authentication.Queries.Login;
 using MapsterMapper;
+using Microsoft.AspNetCore.Authorization;
 
 namespace rixbst.Api.Controllers;
 
 [Route("auth")]
+[AllowAnonymous]
 public class AuthenticationController : ApiController
 {
     private readonly ISender _mediator;

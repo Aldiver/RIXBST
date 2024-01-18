@@ -1,4 +1,5 @@
 using ErrorOr;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using rixbst.Api.Common.Http;
@@ -6,6 +7,8 @@ using rixbst.Api.Common.Http;
 namespace rixbst.Api.Controllers;
 
 [ApiController]
+[Authorize]
+
 public class ApiController : ControllerBase
 {
     protected IActionResult Problem(List<Error> errors)

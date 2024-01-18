@@ -44,3 +44,4 @@ C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\obj\Debug\n
 C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\obj\Debug\net8.0\refint\rixbst.Application.dll
 C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\obj\Debug\net8.0\rixbst.Application.pdb
 C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Application\obj\Debug\net8.0\ref\rixbst.Application.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Application\obj\Debug\net8.0\rixbst.Application.sourcelink.json

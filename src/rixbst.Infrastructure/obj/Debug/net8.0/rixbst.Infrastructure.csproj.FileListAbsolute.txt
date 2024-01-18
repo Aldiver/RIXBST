@@ -50,3 +50,4 @@ C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Infrastructure\obj\Debu
 C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\refint\rixbst.Infrastructure.dll
 C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.pdb
 C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\ref\rixbst.Infrastructure.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Infrastructure\obj\Debug\net8.0\rixbst.Infrastructure.sourcelink.json

@@ -32,3 +32,4 @@ C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Contracts\ob
 C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\refint\rixbst.Contracts.dll
 C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\rixbst.Contracts.pdb
 C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\ref\rixbst.Contracts.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Contracts\obj\Debug\net8.0\rixbst.Contracts.sourcelink.json

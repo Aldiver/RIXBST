@@ -143,3 +143,10 @@ C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debu
 C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Mapster.dll
 C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Mapster.Core.dll
 C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Mapster.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Api\obj\Debug\net8.0\rixbst.Api.sourcelink.json
