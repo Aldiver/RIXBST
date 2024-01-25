@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rixbst.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5beecc4f8b11076abce6f218287c777b441e5188")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37f1fcd60716010f749820688bb6ea3b3c509028")]
 [assembly: System.Reflection.AssemblyProductAttribute("rixbst.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rixbst.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

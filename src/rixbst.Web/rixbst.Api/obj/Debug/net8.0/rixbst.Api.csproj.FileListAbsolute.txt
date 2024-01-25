@@ -153,3 +153,6 @@ C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Api\obj\Debug\net8.0\rixbst.Ap
 C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

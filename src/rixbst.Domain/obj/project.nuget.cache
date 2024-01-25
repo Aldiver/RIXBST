@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+q5jBHnFz3a9Myw98xJcA93cDgJgCGoiQrurmJuvCNfeNn+RX1PYWlo3pPuqWm1w20m62XHNc+wLAZUHbhs/DQ==",
+  "dgSpecHash": "ap+CLwE30K2oaOmV/TJ6go+v+Lm2umEMjEqOVrplwYV3ae5QewIoGp2kYRoHlaSvMQc4yaOojiJs06XLqs1b2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Domain\\rixbst.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Domain\\rixbst.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\8bit\\.nuget\\packages\\erroror\\1.9.0\\erroror.1.9.0.nupkg.sha512"
+    "C:\\Users\\Aldiver Alcoriza\\.nuget\\packages\\erroror\\1.9.0\\erroror.1.9.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Infrastructure\\rixbst.Infrastructure.csproj": {}
+    "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Infrastructure\\rixbst.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Application\\rixbst.Application.csproj": {
+    "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Application\\rixbst.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Application\\rixbst.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Application\\rixbst.Application.csproj",
         "projectName": "rixbst.Application",
-        "projectPath": "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Application\\rixbst.Application.csproj",
-        "packagesPath": "C:\\Users\\8bit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Application\\obj\\",
+        "projectPath": "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Application\\rixbst.Application.csproj",
+        "packagesPath": "C:\\Users\\Aldiver Alcoriza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\8bit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aldiver Alcoriza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Domain\\rixbst.Domain.csproj": {
-                "projectPath": "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Domain\\rixbst.Domain.csproj"
+              "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Domain\\rixbst.Domain.csproj": {
+                "projectPath": "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Domain\\rixbst.Domain.csproj"
               }
             }
           }
@@ -89,20 +90,20 @@
         }
       }
     },
-    "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Domain\\rixbst.Domain.csproj": {
+    "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Domain\\rixbst.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Domain\\rixbst.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Domain\\rixbst.Domain.csproj",
         "projectName": "rixbst.Domain",
-        "projectPath": "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Domain\\rixbst.Domain.csproj",
-        "packagesPath": "C:\\Users\\8bit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Domain\\rixbst.Domain.csproj",
+        "packagesPath": "C:\\Users\\Aldiver Alcoriza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\8bit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aldiver Alcoriza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -111,6 +112,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -154,20 +156,20 @@
         }
       }
     },
-    "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Infrastructure\\rixbst.Infrastructure.csproj": {
+    "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Infrastructure\\rixbst.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Infrastructure\\rixbst.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Infrastructure\\rixbst.Infrastructure.csproj",
         "projectName": "rixbst.Infrastructure",
-        "projectPath": "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Infrastructure\\rixbst.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\8bit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Infrastructure\\rixbst.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Aldiver Alcoriza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\8bit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aldiver Alcoriza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -176,14 +178,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Application\\rixbst.Application.csproj": {
-                "projectPath": "C:\\Users\\8bit\\RIXBST\\rixbst\\src\\rixbst.Application\\rixbst.Application.csproj"
+              "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Application\\rixbst.Application.csproj": {
+                "projectPath": "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Application\\rixbst.Application.csproj"
               }
             }
           }

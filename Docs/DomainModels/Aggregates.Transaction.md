@@ -31,6 +31,13 @@ class Transaction
         },
     "document": "pr-meals-2024.pdf",
     "ownerId": { "value": "00000000-0000-0000-0000-000000000000" },
+    "signatories": [
+        {
+            "id": { "value":"00000000-0000-0000-0000-000000000000" },
+            "Remarks": "Done",
+            "Status": "Signed",   
+        }
+    ],
     "createdDateTime": "Jan-18-2024",
     "updatedDateTime": "Jan-18-2024",
 }
