@@ -5,7 +5,7 @@ using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using rixbst.Application.Common.Interfaces.Authentication;
 using rixbst.Application.Common.Interfaces.Services;
-using rixbst.Domain.Entites;
+using rixbst.Domain.Users;
 using rixbst.Infrastructure.Services;
 
 namespace rixbst.Infrastructure.Authentication;

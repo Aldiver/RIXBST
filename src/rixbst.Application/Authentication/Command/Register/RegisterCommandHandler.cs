@@ -2,9 +2,9 @@ using ErrorOr;
 using MediatR;
 using rixbst.Application.Common.Interfaces;
 using rixbst.Application.Common.Interfaces.Authentication;
-using rixbst.Domain.Entites;
 using rixbst.Domain.Common.Errors;
 using rixbst.Application.Authentication.Common;
+using rixbst.Domain.Users;
 
 namespace rixbst.Application.Authentication.Commands.Register;
 
@@ -29,13 +29,13 @@ public class RegisterCommandHandler : IRequestHandler<RegisterCommand, ErrorOr<A
         }
 
         // Create user (generate unique Id)
-        var user = new User
-        {
-            FirstName = command.FirstName,
-            LastName = command.LastName,
-            Email = command.Email,
-            Password = command.Password
-        };
+        var user = User.Create
+        (
+            command.FirstName,
+            command.LastName,
+            command.Email,
+            command.Password
+        );
 
         _userRepository.Add(user);
 

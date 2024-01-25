@@ -2,9 +2,9 @@ using ErrorOr;
 using MediatR;
 using rixbst.Application.Common.Interfaces;
 using rixbst.Application.Common.Interfaces.Authentication;
-using rixbst.Domain.Entites;
 using rixbst.Domain.Common.Errors;
 using rixbst.Application.Authentication.Common;
+using rixbst.Domain.Users;
 
 namespace rixbst.Application.Authentication.Queries.Login;
 

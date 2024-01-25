@@ -1,5 +1,5 @@
 using rixbst.Application.Common.Interfaces;
-using rixbst.Domain.Entites;
+using rixbst.Domain.Users;
 
 namespace rixbst.Infrastructure.Persistence;
 
