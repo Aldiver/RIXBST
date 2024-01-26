@@ -12,5 +12,4 @@ public sealed class TransactionType : Entity<TransactionTypeId>
         Name = name;
         Description = description;
     }
-    
 }

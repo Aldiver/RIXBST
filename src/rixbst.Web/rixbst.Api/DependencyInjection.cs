@@ -9,6 +9,17 @@ public static class DependencyInjection
 {
     public static IServiceCollection AddPresentation(this IServiceCollection services)
     {
+        services.AddCors(options =>
+            {
+                options.AddPolicy("AllowLocalhost",
+                    builder =>
+                    {
+                        builder.WithOrigins("http://localhost:4200")
+                            .AllowAnyHeader()
+                            .AllowAnyMethod();
+                    });
+            });
+            
         services.AddControllers();
         services.AddSingleton<ProblemDetailsFactory, RixbstDefaultProblemDetailsFactory>();
         services.AddMappings();

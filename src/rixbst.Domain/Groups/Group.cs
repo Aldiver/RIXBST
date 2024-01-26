@@ -1,33 +1,39 @@
 namespace rixbst.Domain.Groups;
 using rixbst.Domain.Common.Models;
 using rixbst.Domain.Groups.ValueObjects;
-using rixbst.Domain.Users;
+using rixbst.Domain.Users.ValueObjects;
 
 public sealed class Group : AggregateRoot<GroupId>
 {
-    public string Name { get; }
+    public string GroupName { get; }
     public string Description { get;}
-    private readonly List<User> _members = new();
+    private readonly HashSet<UserId> _members = new();
+    public UserId DefaultSignatory;
+    public IReadOnlyCollection<UserId> Members => _members;
 
-    private Group(GroupId groupId, string name, string description) : base(groupId)
+    private Group(
+        GroupId groupId, 
+        string groupName, 
+        string description,
+        UserId defaultSignatory) : base(groupId)
     {
-        Name = name;
+        GroupName = groupName;
         Description = description;
+        DefaultSignatory = defaultSignatory;
+        _members.Add(defaultSignatory);
     }
-
-    public IReadOnlyList<User> Members => _members.AsReadOnly();
-
-    public static Group Create(string name, string description)
+    public static Group Create(string name, string description, UserId defaultSignatory)
     {
         return new (
             GroupId.CreateUnique(),
             name,
-            description
+            description,
+            defaultSignatory
         );
     }
-    public void AddMember(User user)
+    public void AddMember(UserId userId)
     {
-        _members.Add(user);
+        _members.Add(userId);
     }
 }
 

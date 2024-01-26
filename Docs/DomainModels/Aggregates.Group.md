@@ -12,7 +12,7 @@ class Group
 {
     "name": "Technical Operations Division",
     "description": "Description",
-    "members": [
+    "groups": [
             { "value": "00000000-0000-0000-0000-000000000000" },
         ],
     "createdDateTime": "Jan-18-2024",
