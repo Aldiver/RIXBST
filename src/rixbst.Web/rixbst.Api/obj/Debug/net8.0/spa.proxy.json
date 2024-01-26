@@ -1,6 +1,6 @@
 {
 "SpaProxyServer": {
-"ServerUrl": "https://localhost:44447",
+"ServerUrl": "http://localhost:44447",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
 "WorkingDirectory": "C:\\Users\\Aldiver Alcoriza\\Desktop\\repo\\rixbst\\src\\rixbst.Web\\rixbst.Api\\ClientApp\\",

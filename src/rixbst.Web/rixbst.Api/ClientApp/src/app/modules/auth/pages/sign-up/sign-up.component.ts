@@ -37,7 +37,7 @@ export class SignUpComponent implements OnInit {
 
   submit(): void {
     // console.log(this.form.getRawValue());
-    this.http.post("http://localhost:5050/auth/register", this.form.getRawValue())
+    this.http.post("http://localhost:5050/auth/register", this.form.getRawValue(), { withCredentials: true })
       .subscribe(res =>{
         console.log(res)
       })

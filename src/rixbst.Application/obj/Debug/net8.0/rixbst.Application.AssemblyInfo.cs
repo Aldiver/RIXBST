@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rixbst.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d92f62cad244691d29498df5042927e7b973fa4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3c6b6248d116bdb77c5c8ebb859a5e49255de00")]
 [assembly: System.Reflection.AssemblyProductAttribute("rixbst.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rixbst.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
