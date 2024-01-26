@@ -13,7 +13,7 @@ builder.Services
 var app = builder.Build();
 {
 app.UseExceptionHandler("/errors");
- app.UseCors("AllowLocalhost");
+app.UseCors("AllowLocalhost");
 app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();

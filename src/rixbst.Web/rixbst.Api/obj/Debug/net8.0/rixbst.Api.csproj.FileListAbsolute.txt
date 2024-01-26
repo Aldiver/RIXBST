@@ -156,3 +156,14 @@ C:\Users\8bit\RIXBST\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Microsoft
 C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\spa.proxy.json
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\obj\Debug\net8.0\spa.proxy.json
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\ClientApp\.eslintrc.json
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\ClientApp\angular.json
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\ClientApp\package-lock.json
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\ClientApp\package.json
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\ClientApp\tsconfig.app.json
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\ClientApp\tsconfig.json
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\ClientApp\tsconfig.spec.json
+C:\Users\Aldiver Alcoriza\Desktop\repo\rixbst\src\rixbst.Web\rixbst.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll

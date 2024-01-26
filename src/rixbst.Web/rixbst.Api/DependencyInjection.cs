@@ -14,7 +14,7 @@ public static class DependencyInjection
                 options.AddPolicy("AllowLocalhost",
                     builder =>
                     {
-                        builder.WithOrigins("http://localhost:4200")
+                        builder.WithOrigins("https://localhost:44447")
                             .AllowAnyHeader()
                             .AllowAnyMethod();
                     });

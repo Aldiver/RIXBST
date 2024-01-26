@@ -2,12 +2,6 @@
   "name": "angular-tailwind",
   "displayName": "Angular Tailwind",
   "version": "0.2.0",
-  "description": "Angular & Tailwind CSS Admin Dashboard Starter Kit, Free and Open Source",
-  "homepage": "https://github.com/luciano-work/angular-tailwind#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/luciano-work/angular-tailwind.git"
-  },
   "keywords": [
     "angular",
     "tailwind",
@@ -16,12 +10,14 @@
     "dark mode",
     "open source"
   ],
-  "author": "Luciano Oliveira <me@lanno.dev>",
-  "license": "MIT",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --open",
+    "prestart": "node aspnetcore-https",
+    "start": "run-script-os",
+    "start:windows": "ng serve --port 44447 --ssl --ssl-cert \"%APPDATA%\\ASP.NET\\https\\%npm_package_name%.pem\" --ssl-key \"%APPDATA%\\ASP.NET\\https\\%npm_package_name%.key\"",
+    "start:default": "ng serve --port 44447 --ssl --ssl-cert \"$HOME/.aspnet/https/${npm_package_name}.pem\" --ssl-key \"$HOME/.aspnet/https/${npm_package_name}.key\"",
     "build": "ng build",
+    "build:ssr": "ng run checking.Web:server:dev",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "prettier": "prettier --config ./.prettierrc --write \"src/{app,environments}/**/*{.ts,.html,.scss,.json}\"",
@@ -45,6 +41,9 @@
     "angular-svg-icon": "^13.0.0",
     "apexcharts": "^3.35.3",
     "ng-apexcharts": "^1.7.1",
+    "jquery": "^3.6.4",
+    "@popperjs/core": "^2.11.8",
+    "run-script-os": "^1.1.6",
     "rxjs": "~7.4.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.2"
